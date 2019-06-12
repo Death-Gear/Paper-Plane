@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Score.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Button.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Score.cs" Line="23" Column="40" />
+      <File FileName="Assets\Scripts\Bird_obs.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Car_obs.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Star_obj.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Insboard.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Quit.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Background_move.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Plane_control.cs" Line="43" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
